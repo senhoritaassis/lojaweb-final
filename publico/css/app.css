@@ -1,0 +1,266 @@
+body
+{
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+}
+#logo1
+{
+	width:300px;
+	height:100px;
+	margin-left:20px;
+}
+#user
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-left: 36%;
+	margin-right:60px;
+	
+}
+#car
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#edit
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#caixa1
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:flex-start;
+	background-color:white;
+}
+#search
+{
+	width:500px;
+	margin:auto;
+}
+#pesq
+{
+	width:30px;
+	height:30px;
+	float:left;
+}
+#input1
+{
+	border-radius:50px 50px;
+	text-align:center;
+	margin:auto;
+	width:90%;
+}
+#rodape
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	background-color:white;
+}
+#tt
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:right;
+	
+}
+#fb
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#menu
+{
+	padding:10px;
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:space-around;
+}
+.image 
+{
+	padding:10px;
+	width:100%;
+}
+.star
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.p1
+{
+	text-align:center;
+}
+#playpet
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#cama
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#arranhador
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#colar
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#fonte
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#grama
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#coleira
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#caixa
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#mochila
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#pate
+{
+	margin: 30px 10px;
+	border: 1px solid #c6c6c6;
+	padding: 20px;
+}
+#produtos1
+{
+	display:flex;
+	justify-content:space-between;
+}
+#produtos2
+{
+	display:flex;
+	justify-content:space-between;
+}
+#imagens
+{
+	margin-right:40px;
+	width:90%;
+}
+#menor
+{
+	display:flex;
+	justify-content:space-around;
+
+}
+.menor
+{
+	width:80px;
+	height:80px;
+	margin-top:25px;
+}
+.maior
+{
+	width:100%;
+	
+}
+#caixa2
+{
+	margin:15px;
+	display:flex;
+	justify-content:space-around;
+	border: 1px solid #c6c6c6;
+	padding: 30px;
+}
+#botao
+{
+	border-radius:10px 10px;
+	margin-left:400px;	
+}
+#login
+{
+	padding: 10px;
+	display:flex;
+	justify-content:space-around;
+	border: 1px solid #c6c6c6;
+	background-color:white;
+}
+
+.arranhador
+{
+	width:100%;
+}
+.colgato
+{
+	width:300px;
+}
+#imagemgato
+{
+	margin-right:40px;
+	width:30%;
+}
+.images
+{
+	padding:10px;
+	width:100%;
+	height:65%;
+}
+#categoria1
+{
+	display:flex;
+	justify-content:space-around;
+}
+.images1
+{
+	margin-bottom:20px;
+}
+.images2
+{
+	padding:10px;
+	width:100%;
+	height:70%;
+}
+.cor
+{
+	background-color:#d9cee2;
+}
+
+.caixaProduto {
+	background-color:white;
+}
+#menu
+{
+	background-color:white;
+}
