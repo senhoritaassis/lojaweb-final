@@ -1,0 +1,23 @@
+<h2>Listar Carrinhos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+
+        <th>ID</th> 
+        
+        <th>NOME</th>
+        
+        </tr>        
+    </thead>
+    <?PHP foreach ($carrinhos as $carrinho): ?>
+        <tr>
+      
+            <td><?= $carrinho['id'] ?></td>
+            <td><?= $carrinho['nome'] ?></td>
+            <td><?= $carrinho['preco'] ?></td>
+            <td><a href="./produto/deletar/<?=$produto['idproduto']?>">Deletar</a></td>
+            <td><a href="./produto/comprar/<?=$produto['idproduto']?>">Comprar</a></td>
+        </tr>
+    <?php endforeach; ?>
+</table>
